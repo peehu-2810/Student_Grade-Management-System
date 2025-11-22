@@ -1,0 +1,123 @@
+Student_ID,Name,Semester,Subject,Credits,Marks
+101,Rahul Trivedi,1,Calculus,4,77
+101,Rahul Trivedi,1,Physics,3,84
+101,Rahul Trivedi,1,Intro to Python,3,84
+101,Rahul Trivedi,1,English,2,90
+101,Rahul Trivedi,2,Linear Algebra,4,74
+101,Rahul Trivedi,2,Data Structures,3,80
+101,Rahul Trivedi,2,Electronics,3,66
+101,Rahul Trivedi,2,EVS,2,77
+101,Rahul Trivedi,3,OOP,3,83
+101,Rahul Trivedi,3,Discrete Math,4,74
+101,Rahul Trivedi,3,Comp Org,3,81
+101,Rahul Trivedi,3,Web Tech,2,79
+101,Rahul Trivedi,4,DBMS,4,81
+101,Rahul Trivedi,4,OS,3,78
+101,Rahul Trivedi,4,Statistics,3,77
+101,Rahul Trivedi,4,Networks,3,80
+101,Rahul Trivedi,5,AI,4,82
+101,Rahul Trivedi,5,ML,4,75
+101,Rahul Trivedi,5,Cloud Comp,3,81
+101,Rahul Trivedi,5,Soft Skills,1,80
+101,Rahul Trivedi,6,Compiler Design,4,88
+101,Rahul Trivedi,6,Graphics,3,80
+101,Rahul Trivedi,6,Security,3,77
+101,Rahul Trivedi,6,Project,2,94
+102,Aanya Goyal,1,Calculus,4,71
+102,Aanya Goyal,1,Physics,3,82
+102,Aanya Goyal,1,Intro to Python,3,78
+102,Aanya Goyal,1,English,2,71
+102,Aanya Goyal,2,Linear Algebra,4,68
+102,Aanya Goyal,2,Data Structures,3,74
+102,Aanya Goyal,2,Electronics,3,72
+102,Aanya Goyal,2,EVS,2,75
+102,Aanya Goyal,3,OOP,3,74
+102,Aanya Goyal,3,Discrete Math,4,78
+102,Aanya Goyal,3,Comp Org,3,67
+102,Aanya Goyal,3,Web Tech,2,83
+102,Aanya Goyal,4,DBMS,4,95
+102,Aanya Goyal,4,OS,3,84
+102,Aanya Goyal,4,Statistics,3,77
+102,Aanya Goyal,4,Networks,3,82
+102,Aanya Goyal,5,AI,4,68
+102,Aanya Goyal,5,ML,4,64
+102,Aanya Goyal,5,Cloud Comp,3,81
+102,Aanya Goyal,5,Soft Skills,1,72
+102,Aanya Goyal,6,Compiler Design,4,66
+102,Aanya Goyal,6,Graphics,3,69
+102,Aanya Goyal,6,Security,3,68
+102,Aanya Goyal,6,Project,2,76
+103,Sahil mehta,1,Calculus,4,74
+103,Sahil mehta,1,Physics,3,73
+103,Sahil mehta,1,Intro to Python,3,64
+103,Sahil mehta,1,English,2,69
+103,Sahil mehta,2,Linear Algebra,4,81
+103,Sahil mehta,2,Data Structures,3,79
+103,Sahil mehta,2,Electronics,3,79
+103,Sahil mehta,2,EVS,2,76
+103,Sahil mehta,3,OOP,3,79
+103,Sahil mehta,3,Discrete Math,4,76
+103,Sahil mehta,3,Comp Org,3,73
+103,Sahil mehta,3,Web Tech,2,83
+103,Sahil mehta,4,DBMS,4,73
+103,Sahil mehta,4,OS,3,69
+103,Sahil mehta,4,Statistics,3,83
+103,Sahil mehta,4,Networks,3,83
+103,Sahil mehta,5,AI,4,63
+103,Sahil mehta,5,ML,4,79
+103,Sahil mehta,5,Cloud Comp,3,60
+103,Sahil mehta,5,Soft Skills,1,82
+103,Sahil mehta,6,Compiler Design,4,68
+103,Sahil mehta,6,Graphics,3,80
+103,Sahil mehta,6,Security,3,70
+103,Sahil mehta,6,Project,2,77
+104,Radhika Garg,1,Calculus,4,77
+104,Radhika Garg,1,Physics,3,74
+104,Radhika Garg,1,Intro to Python,3,77
+104,Radhika Garg,1,English,2,63
+104,Radhika Garg,2,Linear Algebra,4,75
+104,Radhika Garg,2,Data Structures,3,79
+104,Radhika Garg,2,Electronics,3,87
+104,Radhika Garg,2,EVS,2,73
+104,Radhika Garg,3,OOP,3,71
+104,Radhika Garg,3,Discrete Math,4,73
+104,Radhika Garg,3,Comp Org,3,83
+104,Radhika Garg,3,Web Tech,2,79
+104,Radhika Garg,4,DBMS,4,73
+104,Radhika Garg,4,OS,3,80
+104,Radhika Garg,4,Statistics,3,77
+104,Radhika Garg,4,Networks,3,83
+104,Radhika Garg,5,AI,4,72
+104,Radhika Garg,5,ML,4,74
+104,Radhika Garg,5,Cloud Comp,3,74
+104,Radhika Garg,5,Soft Skills,1,66
+104,Radhika Garg,6,Compiler Design,4,79
+104,Radhika Garg,6,Graphics,3,78
+104,Radhika Garg,6,Security,3,77
+104,Radhika Garg,6,Project,2,75
+105,Prachi Sharma,1,Calculus,4,96
+105,Prachi Sharma,1,Physics,3,81
+105,Prachi Sharma,1,Intro to Python,3,76
+105,Prachi Sharma,1,English,2,77
+105,Prachi Sharma,2,Linear Algebra,4,79
+105,Prachi Sharma,2,Data Structures,3,79
+105,Prachi Sharma,2,Electronics,3,68
+105,Prachi Sharma,2,EVS,2,91
+105,Prachi Sharma,3,OOP,3,82
+105,Prachi Sharma,3,Discrete Math,4,82
+105,Prachi Sharma,3,Comp Org,3,88
+105,Prachi Sharma,3,Web Tech,2,75
+105,Prachi Sharma,4,DBMS,4,77
+105,Prachi Sharma,4,OS,3,86
+105,Prachi Sharma,4,Statistics,3,82
+105,Prachi Sharma,4,Networks,3,85
+105,Prachi Sharma,5,AI,4,82
+105,Prachi Sharma,5,ML,4,81
+105,Prachi Sharma,5,Cloud Comp,3,93
+105,Prachi Sharma,5,Soft Skills,1,90
+105,Prachi Sharma,6,Compiler Design,4,65
+105,Prachi Sharma,6,Graphics,3,93
+105,Prachi Sharma,6,Security,3,98
+105,Prachi Sharma,6,Project,2,91
+101,Rahul Trivedi,4,jj,4,20
+101,Rahul Trivedi,4,DSA,4,90
